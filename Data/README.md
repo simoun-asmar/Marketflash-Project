@@ -1,4 +1,4 @@
-# Data Folder
+# Data
 
 This folder contains the foundational datasets provided by **Markus**, the owner of Marketflash, to help structure and analyze the company's campaign performance. The data was initially collected in two Excel sheets with significant redundancy and inconsistency. These sheets serve as the starting point for the project, where we identified key data elements for designing a normalized database and structured dashboard.
 
