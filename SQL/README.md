@@ -20,7 +20,7 @@ This folder contains all SQL scripts necessary for creating, populating, and tes
    - It includes tests on all key relationships, such as `employees` to `departments`, `campaigns` to `channels`, and `campaigns` to `clients`, ensuring that the database relationships are functioning as designed.
    - Additionally, a comprehensive query is provided to pull a complete view of campaign details across multiple tables, simulating the kind of data analysis needed for the Marketflash dashboard.
 
-### Purpose of This Folder:
+### Purpose:
 The **SQL** folder provides all the foundational scripts required to set up, populate, and validate the Marketflash database. These scripts ensure that the data structure is optimized for accurate reporting and analysis, which will be visualized later in the dashboard.
 
 Each script can be run sequentially:
