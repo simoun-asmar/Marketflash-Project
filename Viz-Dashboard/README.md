@@ -26,4 +26,4 @@ This dashboard is designed to empower MarketFlash's executives with the ability 
 
 ### Click on the icon below to see the next step:
 
-[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Presentation)
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Presentation/README.md)
