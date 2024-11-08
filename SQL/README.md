@@ -30,3 +30,8 @@ Each script can be run sequentially:
 
 These files together ensure that the database is ready for actionable insights, supporting the campaign analysis objectives that will be highlighted in the dashboard.
 
+
+### Click on the icon below to see the next step:
+
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Viz-Dashboard)
+
