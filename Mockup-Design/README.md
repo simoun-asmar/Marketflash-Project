@@ -17,3 +17,6 @@ The **Mockup-Design** serves as a blueprint for the final dashboard, capturing t
 
 This mockup ensures that the final dashboard aligns with Marketflash's goals, helping the team to understand campaign effectiveness across different dimensions, such as channels, audience types, and locations.
 
+Click on the icon below to see the next step:
+
+[![Next Step - ERD](https://img.icons8.com/ios-filled/50/ffffff/arrow.png)](../SQL)
