@@ -22,3 +22,8 @@ Explore the live dashboard on Tableau by clicking the icon below:
 [![Tableau](https://img.shields.io/badge/Tableau-005FAD?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/simoun.asmar/viz/Book1_17309103728550/Dashboard12#1)
 
 This dashboard is designed to empower MarketFlash's executives with the ability to easily interpret past campaign results, compare performance across different channels, locations, and audiences, and leverage these insights for strategic planning.
+
+
+### Click on the icon below to see the next step:
+
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Presentation)
