@@ -15,3 +15,15 @@ These files provided the basis for:
 ### Next Steps:
 - Conduct interviews with Markus to understand business requirements and prioritize metrics.
 - Use this data to design the ERD and define table structures, which will be implemented in SQL with constraints, relationships, and test data.
+
+Click on the icon below to see the next step:
+
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](./ERD)
+
+
+
+
+
+
+
+
