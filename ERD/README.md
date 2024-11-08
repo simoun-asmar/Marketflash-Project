@@ -25,7 +25,7 @@ The ERD serves as the foundation for the SQL database creation. With the ERD as 
 
 This ERD forms a roadmap for data flow, from raw storage to actionable insights, which will ultimately be visualized in the Marketflash dashboard.
 
-Click on the icon below to see the next step:
+### Click on the icon below to see the next step:
 
-[![Next Step - ERD](https://img.icons8.com/ios-filled/50/ffffff/arrow.png)](../Mockup-Design)
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../Mockup-Design)
 
