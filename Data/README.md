@@ -18,7 +18,7 @@ These files provided the basis for:
 
 Click on the icon below to see the next step:
 
-[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](simoun-asmar/Marketflash-Project/ERD)
+[![Next Step - ERD](https://img.icons8.com/fluency/48/arrow.png)](../ERD)
 
 
 
