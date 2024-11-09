@@ -11,5 +11,5 @@ This video presentation provides an overview of the MarketFlash project, detaili
 
 ---
 
-## 🎊 The Final Step: Project Complete! 🎊
+Project Complete! 
 
